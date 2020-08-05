@@ -1,0 +1,129 @@
+.mailing-form {
+  border: .2rem solid #f8f9fa;
+  mark {
+    padding: 0;
+  }
+  .form {
+    &-group {
+      position: relative;
+    }
+    &-hint-block {
+      z-index: 2;
+      overflow: auto;
+      height: auto;
+      max-height: 210px;
+      position: absolute;
+      mark {
+        background-color: #ff0;
+      }
+    }
+    &-hint {
+      &-department {
+        font-size: 1.2rem;
+        font-weight: bold;
+      }
+      &-item {
+        cursor: pointer;
+        margin: 1rem 0;
+      }
+      &-name {
+        font-size: 1.1rem;
+      }
+      &-email,
+      &-position {
+        font-size: .8rem;
+      }
+    }
+  }
+  .email-container {
+    .focus {
+      box-shadow: 0 0 0 .2rem rgba(0,123,255,.25);
+    }
+  }
+  .email-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 4px 6px;
+    height: auto;
+    .btn {
+      font-size: 12px;
+      padding: 2px 10px;
+      margin: 2px 6px;
+      position: relative;
+      padding-right: 20px;
+    }
+  }
+  .email {
+    min-width: 5px;
+    outline: none;
+    min-height: 28px;
+    margin-left: 6px;
+    overflow: hidden;
+    &-close {
+      top: 7px;
+      right: 5px;
+      width: 10px;
+      height: 10px;
+      display: block;
+      position: absolute;
+      background: url('./images/close.svg') no-repeat 0 0;
+      background-size: 100% auto;
+    }
+  }
+  &,
+  &-last {
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+  }
+  .invalid-feedback {
+    display: block;
+  }
+  .is-invalid {
+    .email-wrap,
+    input[type = "text"],
+    .tox-tinymce {
+      border-color: #dc3545;
+    }
+    input[type = "text"]:focus {
+      box-shadow: 0 0 0 .2rem rgba(220,53,69,.25);
+    }
+  }
+  &.loaded {
+    button,
+    .form-group {
+      opacity: .3;
+    }
+  }
+  &-tag {
+    color: #fff;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 5px;
+    font-size: .7rem;
+  }
+  &-tag-wrap {
+    margin: 0 -5px;
+    overflow: hidden;
+  }
+  &-editor {
+    min-height: 340px;
+    label {
+      vertical-align: top;
+    }
+  }
+  &-preloader {
+    top: 50%;
+    left: 50%;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    margin: -32px 0 0 -32px;
+    background: url(./images/25.gif);
+  }
+  &-last {
+    h3 {
+      margin: 0 0 1rem;
+    }
+  }
+}

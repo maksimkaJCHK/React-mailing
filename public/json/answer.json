@@ -1,0 +1,17 @@
+{
+  "isAlarm": false,
+  "emailsArr": [],
+  "email": {
+    "value": "",
+    "alarm": ""
+  },
+  "theme": {
+    "value": "",
+    "alarm": ""
+  },
+  "content": {
+    "value": "",
+    "alarm": ""
+  },
+  "isLoad": false
+}

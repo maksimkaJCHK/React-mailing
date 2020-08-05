@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "department": "Отдел разработки",
+    "item": [
+      {
+        "id": 1,
+        "name": "Александр Ануфриев",
+        "email": "alexanufriev@yandex.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 2,
+        "name": "Борис Елисеев",
+        "email": "boriseliseev@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 3,
+        "name": "Виктор Виноградов",
+        "email": "viktorvinigradov@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 4,
+        "name": "Григорий Савченко",
+        "email": "grigoriysavchenko@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 5,
+        "name": "Дмитрий Потапов",
+        "email": "dmitriypotapov@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 6,
+        "name": "Павел Романов",
+        "email": "pavelromanovv@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 7,
+        "name": "Ромал Силин",
+        "email": "romansilin@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 8,
+        "name": "Ромал Евстафьев",
+        "email": "romanevstafiev@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 9,
+        "name": "Сергей Севельев",
+        "email": "sergeysaveliev@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 10,
+        "name": "Федор Яковлев",
+        "email": "fedoeyakovlev@gmail.ru",
+        "position": "Backend-разработчик"
+      },
+      {
+        "id": 11,
+        "name": "Александра Соловьева",
+        "email": "alexsolov@gmail.ru",
+        "position": "Web-дизайнер"
+      },
+      {
+        "id": 12,
+        "name": "Вероника Скворцова",
+        "email": "veronicascvorc@gmail.ru",
+        "position": "Web-дизайнер"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "department": "SEO отдел",
+    "item": [
+      {
+        "id": 1,
+        "name": "Александр Иванов",
+        "email": "alexivanov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 2,
+        "name": "Борис Викторов",
+        "email": "borisviktorov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 3,
+        "name": "Максим Выборнов",
+        "email": "maksimvibornov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 4,
+        "name": "Михаил Долгов",
+        "email": "michaildolgov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 5,
+        "name": "Николай Наумов",
+        "email": "nikolaynaymov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 6,
+        "name": "Олег Ерофеев",
+        "email": "olegerofeev@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 7,
+        "name": "Олег Диханов",
+        "email": "olegedihanov@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 8,
+        "name": "Петр Стужев",
+        "email": "petrstujev@yandex.ru",
+        "position": "SEO-специалист"
+      },
+      {
+        "id": 9,
+        "name": "Вероника Быстрова",
+        "email": "veronikabistrova@gmqil.ru",
+        "position": "Копирайтер"
+      },
+      {
+        "id": 10,
+        "name": "Наталья Высокова",
+        "email": "veronikabistrova@gmqil.ru",
+        "position": "Копирайтер"
+      },
+      {
+        "id": 11,
+        "name": "Мария Николаева",
+        "email": "mariyanikolaeva@gmqil.ru",
+        "position": "Копирайтер"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "department": "Коммерческий отдел",
+    "item": [
+      {
+        "id": 1,
+        "name": "Григорий Емельянов",
+        "email": "grigoriyemelyanov@yandex.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 2,
+        "name": "Дмитриий Евсеев",
+        "email": "dmitryievseev@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 3,
+        "name": "Денис Зубанов",
+        "email": "deniszubanov@yandex.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 4,
+        "name": "Евгений Колесников",
+        "email": "evgeniykosesnikov@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 5,
+        "name": "Иван Боков",
+        "email": "ivanbokov@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 6,
+        "name": "Максим Скоков",
+        "email": "maksimskokov@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 7,
+        "name": "Михаил Ермолов",
+        "email": "mikhailermolov@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 8,
+        "name": "Сергей Комов",
+        "email": "sergeykomov@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 9,
+        "name": "Ярослав Пинченко",
+        "email": "yaroslavpinchenko@gmail.ru",
+        "position": "Менеджер по продажам"
+      },
+      {
+        "id": 10,
+        "name": "Ярослав Трунов",
+        "email": "yaroslavtrynov@gmail.ru",
+        "position": "Менеджер по продажам"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "department": "Бухлалтерия",
+    "item": [
+      {
+        "id": 1,
+        "name": "Инга Колосова",
+        "email": "ingakolosova@yandex.ru",
+        "position": "Главный бухгалтер"
+      },
+      {
+        "id": 2,
+        "name": "Марина Строгова",
+        "email": "marinastrogova@gmail.ru",
+        "position": "Бухгалтер"
+      },
+      {
+        "id": 3,
+        "name": "Виктория Власова",
+        "email": "viktoriyavlasova@gmail.ru",
+        "position": "Бухгалтер"
+      }
+    ]
+  }
+]
